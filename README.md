@@ -40,9 +40,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepraj21&show_icons=true&theme=radical" alt="Deepraj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepra16&show_icons=true&theme=radical" alt="Deepraj's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepraj21&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepraj16&layout=compact&theme=radical" />
 </p>
 
 
