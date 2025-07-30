@@ -3,14 +3,14 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=deepraj61&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj16"/> 
+  <img src="https://komarev.com/ghpvc/?username=deepraj21&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj21"/> 
 </p>
 
 - 🌱 I’m currently learning **Generative AI (Gen-AI)** and improving my **LLM & system design skills**  
 - 🔭 I’m working on **AI Chatbots**, **Backend APIs**, and **Machine Learning projects**
-- 💬 Ask me about **Python, Flask, Django, LangChain, FastAPI, or TensorFlow**
-- ⚡ Fun fact: I build **AI-powered tools** and love exploring **edge computing with Raspberry Pi**
+- 💬 Ask me about **Python, Flask, Django, LangChain, or TensorFlow**
 - 📫 How to reach me **[deeprajautade1@gmail.com](mailto:deeprajautade1@gmail.com)**
+
 
 
 
