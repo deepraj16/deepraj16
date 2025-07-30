@@ -6,9 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=deepraj21&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj21"/> 
 </p>
 
+- 💬 Ask me about **Python, Flask, Django, LangChain, or TensorFlow**
 - 🌱 I’m currently learning **Generative AI (Gen-AI)** and improving my **LLM & system design skills**  
 - 🔭 I’m working on **AI Chatbots**, **Backend APIs**, and **Machine Learning projects**
-- 💬 Ask me about **Python, Flask, Django, LangChain, or TensorFlow**
 - 📫 How to reach me **[deeprajautade1@gmail.com](mailto:deeprajautade1@gmail.com)**
 
 
