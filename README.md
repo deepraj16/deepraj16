@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=deepraj21&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj21" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<img align="right" alt="Coding" width="280" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 ### 👨‍💻 About Me
 
@@ -33,9 +33,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/deepraj21/deepraj21/output/snake.svg" alt="Snake animation" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deepraj16/deepraj16/output/snake.svg" alt="Snake animation" />
-</p>
-
 
 ---
