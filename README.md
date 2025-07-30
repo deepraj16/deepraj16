@@ -16,8 +16,7 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,flask,react,vite,nextjs,nodejs,ts,js,express,postman,fastapi,anaconda,mongodb,mysql,redis,sqlite,sklearn,tensorflow,firebase,html,css,linux,git,docker,gcp,aws,wordpress" />
-</a>
-</p>
+   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,flask,django,react,ts,js,express,postman,fastapi,anaconda,mongodb,mysql,redis,sqlite,sklearn,tensorflow,firebase,html,css,linux,git,docker,gcp,aws,wordpress" />
+
 
 <img src="https://raw.githubusercontent.com/deepraj21/deepraj21/output/snake.svg" alt="Snake animation" />
