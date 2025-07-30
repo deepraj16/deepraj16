@@ -23,7 +23,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,flask,django,fastapi,react,js,postman,anaconda,mongodb,mysql,redis,sqlite,postgres,pandas,matplotlib,sklearn,tensorflow,firebase,html,css,linux,git,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,flask,django,fastapi,react,js,postman,anaconda,mongodb,mysql,redis,sqlite,postgres,sklearn,tensorflow,firebase,html,css,linux,git,docker,aws" />
 </p>  
 
 
