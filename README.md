@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-  Hi, I'm Deepraj Autade
+  Hi, I'm Deepraj
 </h1>
 
 <h3 align="center">🚀 Committing every day to make a change</h3>
@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=deepraj21&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj21" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 ### 👨‍💻 About Me
 
@@ -35,14 +35,3 @@
 </p>
 
 ---
-
-<!-- Optional: GitHub Stats -->
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepra16&show_icons=true&theme=radical" alt="Deepraj's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepraj16&layout=compact&theme=radical" />
-</p>
-
-
