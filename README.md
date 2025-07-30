@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning **Gen-ai**
 
-- 👨‍💻 Visit my Projects at [REPOSITORY](https://repository21.netlify.app/)
 
-- 💻 Visit my home at [127.0.0.1](https://deepraj.is-a.dev)
+- 📫 How to reach me **[deeprajautade1@gmail.com](mailto:deeprajautade1@gmail.com)**
 
-- 📫 How to reach me **[deepraj21.bera@gmail.com](mailto:deepraj21.bera@gmail.com)**
 
 
 
@@ -22,4 +20,4 @@
 </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/deepraj21/deepraj21/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/deepraj16/deepraj16/output/snake.svg" alt="Snake animation" />
