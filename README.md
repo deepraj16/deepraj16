@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 💬 Ask me about: **Python, Flask, Django, LangChain**
-- 🌱 Currently learning: **Generative AI (Gen-AI)** , improving my **LLM & system design skills**
+- 🌱 Currently learning: **Generative AI (Gen-AI)**, improving my **LLM & system design**
 - 🔭 Working on: **AI Chatbots**, **Backend APIs**, and **Machine Learning projects**
 - 📫 Reach me at: [deeprajautade1@gmail.com](mailto:deeprajautade1@gmail.com)
 
