@@ -1,5 +1,3 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
-
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, I'm Deepraj</h1>
 <h3 align="center">Committing every day to make a change</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
