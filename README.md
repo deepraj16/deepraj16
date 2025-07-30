@@ -31,7 +31,11 @@
 ### 🐍 GitHub Activity
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/deepraj21/deepraj21/output/snake.svg" alt="Snake animation" />
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/deepraj16/deepraj16/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
