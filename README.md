@@ -20,4 +20,4 @@
 </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/deepraj16/deepraj16/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/deepraj21/deepraj21/output/snake.svg" alt="Snake animation" />
