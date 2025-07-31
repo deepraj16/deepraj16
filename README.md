@@ -23,8 +23,16 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,flask,django,fastapi,react,js,postman,anaconda,mongodb,mysql,redis,sqlite,postgres,sklearn,tensorflow,firebase,html,css,linux,git,docker,aws" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,flask,django,fastapi,react,js,postman,anaconda,mongodb,mysql,redis,sqlite,postgres,sklearn,tensorflow,firebase,html,css,linux,git,docker,aws,vscode,pycharm" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-blue?logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-4B8BBE?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-green?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spyder-ff0000?logo=python&logoColor=white" />
+</p>
+
 
 
 ---
