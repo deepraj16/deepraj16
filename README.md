@@ -23,15 +23,22 @@
 ### 💻 Tech Stack
 
 <p align="center">
+  <!-- SkillIcons -->
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,flask,django,fastapi,react,js,postman,anaconda,mongodb,mysql,redis,sqlite,postgres,sklearn,tensorflow,firebase,html,css,linux,git,docker,aws,vscode,pycharm" />
+
+  <!-- LangChain Logo -->
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/favicon.ico" alt="LangChain" width="40" title="LangChain" />
+
+  <!-- LangGraph Logo -->
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/logo.png" alt="LangGraph" width="40" title="LangGraph" />
+
+  <!-- BeautifulSoup Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Beautiful_Soup_Logo.png" alt="BeautifulSoup" width="40" title="BeautifulSoup" />
+
+  <!-- Spyder Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder IDE" width="40" title="Spyder IDE" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-blue?logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-4B8BBE?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-green?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spyder-ff0000?logo=python&logoColor=white" />
-</p>
 
 
 
