@@ -9,17 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=deepraj21&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj21" />
 </p>
 
-<!-- Custom calculation from 1000 -->
-<p align="center">
-  <script>
-    // Manually input the current views from your badge
-    const currentViews = 742; // Replace with actual number
-    const target = 1000;
-    const remaining = target - currentViews;
-    document.write(`<strong>🚀 ${remaining} views to reach 1000!</strong>`);
-  </script>
-</p>
-
 <img align="right" alt="Coding" width="280" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 ### 👨‍💻 About Me
@@ -34,8 +23,13 @@
 ### 💻 Tech Stack
 
 <p align="center">
+  <!-- SkillIcons -->
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,flask,django,fastapi,react,js,postman,anaconda,mongodb,mysql,redis,sqlite,postgres,sklearn,tensorflow,firebase,html,css,linux,git,docker,aws,vscode,pycharm" />
+
 </p>
+
+
+
 
 ---
 
@@ -46,3 +40,6 @@
 </p>
 
 ---
+
+
+ChatGPT said:
