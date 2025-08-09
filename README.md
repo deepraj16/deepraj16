@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Committing every day to make a change</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepraj21&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj21" />
+  <img src="https://komarev.com/ghpvc/?username=deepraj16&label=Profile%20views&color=0e75b6&style=flat" alt="deepraj16" />
 </p>
 
 <img align="right" alt="Coding" width="280" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
@@ -24,7 +24,7 @@
 
 <p align="center">
   <!-- SkillIcons -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,flask,django,fastapi,react,js,postman,anaconda,mongodb,mysql,redis,sqlite,postgres,sklearn,tensorflow,firebase,html,css,linux,git,docker,aws,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,flask,django,fastapi,react,js,postman,anaconda,mongodb,mysql,redis,sqlite,postgres,sklearn,tensorflow,firebase,html,css,linux,git,vscode,pycharm" />
 
 </p>
 
