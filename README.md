@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
   Hi, I'm Deepraj
 </h1>
-<h3 align="center">Committing every day to make a change</h3>
-### 👨‍💻 About Me
+ 👨‍💻 About Me
 
 - 🌱 Currently learning: **Generative AI (Gen-AI)**, improving my **LLM & system design**
 - 🔭 Working on: **AI Chatbots**, **Web Backend APIs**, and **Machine Learning projects**
