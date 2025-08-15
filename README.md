@@ -3,9 +3,9 @@
   Hi, I'm Deepraj
 </h1>
  👨‍💻 About Me
-
 - 🌱 Currently learning: **Generative AI (Gen-AI)**, improving my **LLM & system design**
-- 🔭 Working on: **AI Chatbots**, **Web Backend APIs**, and **Machine Learning projects**
+- 🔭 Working on: **AI Chatbots**, **Web Backend APIs**, and **Machine Learning and NLP projects**
+- 💻 Skilled in: **Basic React (Frontend)* and *Backend frameworks* (Flask, Django, FastAPI)
 - 📫 Reach me at: [deeprajautade1@gmail.com](mailto:deeprajautade1@gmail.com)
 ---
 ### 💻 Tech Stack
