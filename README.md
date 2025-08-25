@@ -11,5 +11,5 @@
 ---
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,flask,django,fastapi,react,java,js,postman,anaconda,mongodb,mysql,redis,sqlite,postgres,sklearn,tensorflow,firebase,html,css,linux,git,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,flask,django,fastapi,react,java,js,postman,anaconda,mongodb,mysql,sqlite,postgres,sklearn,tensorflow,firebase,html,css,git,vscode,pycharm" />
 </p>
