@@ -13,13 +13,14 @@
 ## 🏆 Competitive Programming Profiles
 <p align="center">
   <a href="https://www.codechef.com/users/YOUR_USERNAME">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="40" height="40" alt="CodeChef"/>
+    <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/YOUR_USERNAME/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40" alt="LeetCode"/>
+    <img src="https://leetcode.com/static/images/LeetCode_logo.png" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
+
 
 ## 💻 Tech Stack
 <p align="center">
