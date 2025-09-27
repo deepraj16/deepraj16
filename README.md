@@ -12,7 +12,6 @@
 - 🏆 Competitive Programming: [CodeChef](https://www.codechef.com/users/deepraj_16) | [LeetCode](https://leetcode.com/u/deepraj16/)
 ---
 
-
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,flask,django,fastapi,react,java,js,postman,anaconda,mongodb,mysql,sqlite,postgres,sklearn,tensorflow,firebase,html,css,git,github,vscode,pycharm" />
