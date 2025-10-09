@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 - 🌱 Currently learning: **Generative AI (Gen-AI)**, enhancing my expertise in **LLMs** and **System Design**  
 - 🔭 Working on: **AI Chatbots**, **Web Backend APIs**, **Machine Learning**, and **NLP projects**  
-- 💻 Skilled in: **Basic React (Frontend)** and **Backend Frameworks** — Flask, Django, FastAPI 
+- 💻 Skilled in: **Machine Learning, Deep Learning** and **Backend Frameworks** — Flask, Django, FastAPI 
 - 📫 Reach me at: [deeprajautade1@gmail.com](mailto:deeprajautade1@gmail.com)
 - 🏆 Competitive Programming: [CodeChef](https://www.codechef.com/users/deepraj_16) | [LeetCode](https://leetcode.com/u/deepraj16/)
 ---
